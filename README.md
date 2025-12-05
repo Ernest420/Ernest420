@@ -1,4 +1,4 @@
-# 🔬 Ciencia de Datos con Propósito | Ernest
+# 🔬 Ciencia de Datos | Ernest
 
 
 ### 🧭 Transición Metódica al Análisis Cuantitativo
