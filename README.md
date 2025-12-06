@@ -4,6 +4,6 @@ Data Scientist in progress — coding, modeling, learning.
 Interested in pushing the boundaries.
 </div>
 <p align="center">
-  <img src="assets/PinDown.io_@gailthomas_1764981997.gif" width="100"/>
+  <img src="assets/PinDown.io_@tambovchurch_1764983101.gif" width="100"/>
 </p>
 
